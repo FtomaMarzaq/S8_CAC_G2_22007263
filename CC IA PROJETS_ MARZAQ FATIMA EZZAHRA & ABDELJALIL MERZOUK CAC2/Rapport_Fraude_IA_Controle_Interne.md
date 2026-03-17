@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛡️ Rapport Académique : Contrôle interne & Gouvernance
+#  THEME : Contrôle interne & Gouvernance
 ### *Prédiction de la probabilité de fraude interne en entreprise à l'aide de l'intelligence artificielle*
 
 [![Statut](https://img.shields.io/badge/Statut-Projet_Académique-blue?style=flat-square)](#)
@@ -13,13 +13,13 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="photo_fatima.jpg" alt="Photo MARZAQ Fatima-Ezzahra" width="130" height="130" style="border-radius:50%; object-fit: cover;"><br>
+      <img src="PHOTO PROFIL.jpg" alt="Photo MARZAQ Fatima-Ezzahra" width="130" height="130" style="border-radius:50%; object-fit: cover;"><br>
       <b>MARZAQ Fatima-Ezzahra</b><br>
       Code Apogée : 22007263
     </td>
     <td width="100"></td>
     <td align="center">
-      <img src="photo_abdeljalil.jpg" alt="Photo MERZOUK Abdeljalil" width="130" height="130" style="border-radius:50%; object-fit: cover;"><br>
+      <img src="abdeljalil.jpg" alt="Photo MERZOUK Abdeljalil" width="130" height="130" style="border-radius:50%; object-fit: cover;"><br>
       <b>MERZOUK Abdeljalil</b><br>
       Code Apogée : 24010401
     </td>
